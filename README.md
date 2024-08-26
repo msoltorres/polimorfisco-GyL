@@ -1,1 +1,3 @@
-# polimorfismo-GyL
+# Polimorfismo-GyL
+
+Ejemplos de polimorfismo.
